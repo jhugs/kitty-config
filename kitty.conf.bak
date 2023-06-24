@@ -1,5 +1,5 @@
 # BEGIN_KITTY_THEME
-# Everforest Light Soft
+# Tokyo Night
 include current-theme.conf
 # END_KITTY_THEME
 macos_option_as_alt yes
